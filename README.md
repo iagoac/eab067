@@ -18,7 +18,7 @@ Abaixo segue o planejamento das aulas.
 - **10/03** - Aula 02: Tipos de aprendizado; Introdução a modelos de aprendizado não-supervisionado
 - **17/03** - Aula 03: Modelos de aprendizado não-supervisionado
 - **24/03** - Aula 04: Laboratório - Aprendizado de máquina não-supervisionado
-- **31/03** - Aula 05: Modelos de aprendizado supervisionado; Classificação e regressão
+- **07/04** - Aula 05: Modelos de aprendizado supervisionado; Classificação e regressão
 - **14/04** - Aula 06: Treinamento de modelos de aprendizado supervisionado
 - **28/04** - Aula 07: Laboratório - Aprendizado de máquina supervisionado
 - **05/05** - Aula 08: Aprendizado de máquina por reforço
