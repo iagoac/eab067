@@ -14,16 +14,17 @@ As aulas serão ministradas, em sua grande maioria, presencialmente. Aulas teór
 
 Abaixo segue o planejamento das aulas.
 
-- **03/03** - Aula 01: Introdução a disciplina EAB067; História do aprendizado de máquina; Pipelines de aprendizado de máquina
-- **10/03** - Aula 02: Tipos de aprendizado; Introdução a modelos de aprendizado não-supervisionado
-- **17/03** - Aula 03: Modelos de aprendizado não-supervisionado
-- **24/03** - Aula 04: Laboratório - Aprendizado de máquina não-supervisionado
-- **07/04** - Aula 05: Modelos de aprendizado supervisionado; Classificação e regressão
-- **14/04** - Aula 06: Treinamento de modelos de aprendizado supervisionado
-- **28/04** - Aula 07: Laboratório - Aprendizado de máquina supervisionado
-- **05/05** - Aula 08: Aprendizado de máquina por reforço
-- **12/05** - Aula 09: Laboratório - Aprendizado de máquina por reforço
-- **19/05** - Aula 10: Tratamento de dados - Limpeza, imputação, balanceamento
+- **03/03** - Aula 01: [Introdução a disciplina EAB067](slides/aula_01.pdf)
+  - [Atividades](atividades/aula_01.pdf)
+- **10/03** - Aula 02: Pipelines de aprendizado de máquina; Tratamento de dados (limpeza, imputação, balanceamento); Tipos de aprendizado
+- **17/03** - Aula 03: Laboratório de tratamento de dados
+- **24/03** - Aula 04: Modelos de aprendizado não-supervisionado
+- **07/04** - Aula 05: Laboratório - Aprendizado de máquina não-supervisionado; Entrega da primeira parte do artigo
+- **14/04** - Aula 06: Modelos de aprendizado supervisionado; Classificação e regressão;
+- **28/04** - Aula 07: Treinamento de modelos de aprendizado supervisionado
+- **05/05** - Aula 08: Laboratório - Aprendizado de máquina supervisionado
+- **12/05** - Aula 09: Aprendizado de máquina por reforço
+- **19/05** - Aula 10: Laboratório - Aprendizado de máquina por reforço; Entrega da segunda parte do artigo
 - **26/05** - Aula 11: Otimização de modelos: Seleção de variáveis e otimização de hiperparâmetros
 - **02/06** - Aula 12: Laboratório - Tratamento de dados e otimização de modelos
 - **09/06** - Aula 13: Apresentação dos seminários
