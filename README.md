@@ -6,7 +6,7 @@
 
 #### Horário
 
-- Terças-feiras, 13h15 às 17h (Sala D-305)
+- Terças-feiras, 13h30 às 17h (Sala D-305)
 
 #### Histórico e planejamento das aulas
 
@@ -17,7 +17,7 @@ Abaixo segue o planejamento das aulas.
 - **03/03** - Aula 01: [Introdução a disciplina EAB067](slides/aula_01.pdf)
   - [Atividades](atividades/aula_01.pdf)
 - **10/03** - Aula 02: [Pipelines de aprendizado de máquina](slides/aula_02-1.pdf); [Tipos de aprendizado](slides/aula_02-2.pdf)
-- **17/03** - Aula 03: Tratamento de dados (limpeza, imputação, balanceamento)Laboratório de tratamento de dados
+- **17/03** - Aula 03: Tratamento de dados (limpeza, imputação, balanceamento); Laboratório de tratamento de dados
 - **24/03** - Aula 04: Modelos de aprendizado não-supervisionado
 - **07/04** - Aula 05: Laboratório - Aprendizado de máquina não-supervisionado; Entrega da primeira parte do artigo
 - **14/04** - Aula 06: Modelos de aprendizado supervisionado; Classificação e regressão;
