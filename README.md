@@ -18,15 +18,15 @@ Abaixo segue o planejamento das aulas.
   - [Atividades](atividades/aula_01.pdf)
 - **10/03** - Aula 02: [Pipelines de aprendizado de máquina](slides/aula_02-1.pdf); [Tipos de aprendizado](slides/aula_02-2.pdf)
 - **17/03** - Aula 03: [Tratamento de dados (limpeza, imputação, balanceamento)](slides/aula_03.pdf); [Laboratório de tratamento de dados](atividades/aula_03.pdf)
-- **24/03** - Aula 04: Modelos de aprendizado não-supervisionado
-- **07/04** - Aula 05: Laboratório - Aprendizado de máquina não-supervisionado; Entrega da primeira parte do artigo
-- **14/04** - Aula 06: Modelos de aprendizado supervisionado; Classificação e regressão;
+- **24/03** - Aula 04: [Modelos de aprendizado não-supervisionado (Clusterização e associação)](slides/aula_04.pdf)
+- **07/04** - Aula 05: Modelos de aprendizado não-supervisionado (Redução de dimensionalidade); Prática de algoritmos de aprendizado de máquina não-supervisionado; Entrega da primeira parte do artigo
+- **14/04** - Aula 06: Modelos de aprendizado supervisionado para classificação e regressão; Discussão da primeira parte do artigo
 - **28/04** - Aula 07: Treinamento de modelos de aprendizado supervisionado
 - **05/05** - Aula 08: Laboratório - Aprendizado de máquina supervisionado
 - **12/05** - Aula 09: Aprendizado de máquina por reforço
 - **19/05** - Aula 10: Laboratório - Aprendizado de máquina por reforço; Entrega da segunda parte do artigo
 - **26/05** - Aula 11: Otimização de modelos: Seleção de variáveis e otimização de hiperparâmetros
-- **02/06** - Aula 12: Laboratório - Tratamento de dados e otimização de modelos
+- **02/06** - Aula 12: Laboratório - Seleção de variáveis e otimização de modelos
 - **09/06** - Aula 13: Apresentação dos seminários
 - **16/06** - Aula 14: Apresentação dos artigos
 - **23/06** - Aula 15: Data extra
