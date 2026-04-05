@@ -74,8 +74,8 @@ Se você utilizar o material desta disciplina de qualquer maneira, por favor, ci
 Iago A. Carvalho (2026), EAB067. Online: [https://github.com/iagoac/eab067](https://github.com/iagoac/eab067) Version 1.00; GNU General Public License v3.0.
 
 > @Misc{CarvalhoEAB067,  
-title={EAB067 - Aprendizado de máquina}, 
-author={Iago A. Carvalho},
+title={EAB067 - Aprendizado de máquina},  
+author={Iago A. Carvalho},  
 howPublished={\url{https&#58;//github\.com/iagoac/eab067}},  
 year={2026},  
 note={Version 1.00; GNU General Public License v3.0}  
