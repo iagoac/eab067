@@ -21,9 +21,9 @@ Abaixo segue o planejamento das aulas.
 - **24/03** - Aula 04: [Modelos de aprendizado não-supervisionado (Clusterização e associação)](slides/aula_04.pdf)
 - **07/04** - Aula 05: [Modelos de aprendizado não-supervisionado (Redução de dimensionalidade)](slides/aula_05.pdf); [Prática de algoritmos de aprendizado de máquina não-supervisionado](atividades/aula_05.py); Entrega da primeira parte do artigo
 - **14/04** - Aula 06: ~Modelos de aprendizado supervisionado para classificação e regressão; Discussão da primeira parte do artigo~
-- **28/04** - Aula 07: Modelos de aprendizado supervisionado para classificação e regressão; Discussão da primeira parte do artigo
-- **05/05** - Aula 08: Treinamento de modelos de aprendizado supervisionado
-- **12/05** - Aula 09: Laboratório - Aprendizado de máquina supervisionado
+- **28/04** - Aula 07: ~Modelos de aprendizado supervisionado para classificação e regressão; Discussão da primeira parte do artigo~
+- **05/05** - Aula 08: [Modelos de aprendizado supervisionado para classificação e regressão](slides/aula_08.pdf); Discussão da primeira parte do artigo
+- **12/05** - Aula 09: Treinamento de modelos de aprendizado supervisionado; Laboratório - Aprendizado de máquina supervisionado
 - **19/05** - Aula 10: Aprendizado de máquina por reforço; Entrega da segunda parte do artigo
 - **26/05** - Aula 11: Laboratório - Aprendizado de máquina por reforço
 - **02/06** - Aula 12: Otimização de modelos: Seleção de variáveis e otimização de hiperparâmetros
