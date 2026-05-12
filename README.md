@@ -24,10 +24,10 @@ Abaixo segue o planejamento das aulas.
 - **28/04** - Aula 07: ~Modelos de aprendizado supervisionado para classificação e regressão; Discussão da primeira parte do artigo~
 - **05/05** - Aula 08: [Modelos de aprendizado supervisionado para classificação e regressão](slides/aula_08.pdf); Discussão da primeira parte do artigo
 - **12/05** - Aula 09: [Treinamento de modelos de aprendizado supervisionado](slides/aula_09.pdf); Laboratório - Aprendizado de máquina supervisionado
-- **19/05** - Aula 10: Aprendizado de máquina por reforço; Entrega da segunda parte do artigo
-- **26/05** - Aula 11: Laboratório - Aprendizado de máquina por reforço
-- **02/06** - Aula 12: Otimização de modelos: Seleção de variáveis e otimização de hiperparâmetros
-- **09/06** - Aula 13: Laboratório - Seleção de variáveis e otimização de modelos
+- **19/05** - Aula 10: Otimização de modelos: Seleção de variáveis e otimização de hiperparâmetros; Entrega da segunda parte do artigo
+- **26/05** - Aula 11: Laboratório - Seleção de variáveis e otimização de modelos
+- **02/06** - Aula 12: Aprendizado de máquina por reforço 
+- **09/06** - Aula 13: Laboratório - Aprendizado de máquina por reforço
 - **16/06** - Aula 14: Apresentação dos seminários
 - **23/06** - Aula 15: Apresentação dos artigos
 
