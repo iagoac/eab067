@@ -28,8 +28,8 @@ Abaixo segue o planejamento das aulas.
 - **26/05** - Aula 11: Aprendizado de máquina por reforço 
 - **02/06** - Aula 12: Laboratório - Seleção de variáveis e otimização de modelos
 - **09/06** - Aula 13: Laboratório - Aprendizado de máquina por reforço
-- **16/06** - Aula 14: Apresentação dos seminários
-- **23/06** - Aula 15: Apresentação dos artigos
+- **07/07** - Aula 14: Apresentação dos seminários
+- **14/07** - Aula 15: Apresentação dos artigos
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças 
 
